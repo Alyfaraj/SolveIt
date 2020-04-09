@@ -1,4 +1,7 @@
 # SolveIt
+![Screenshot_20200409-194141](https://user-images.githubusercontent.com/42911937/78924580-61a55980-7a9a-11ea-95f2-2a21ad0b356b.jpg)
+
+
 <html>
 <h1>AI Final Term Project Computer Scenice Department </h1>
 <h2>Tasks<h2>

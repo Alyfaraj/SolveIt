@@ -1,4 +1,7 @@
 # SolveIt
+
+![GIF-200409_193641](https://user-images.githubusercontent.com/42911937/78925168-46871980-7a9b-11ea-9164-ef0d276594dc.gif)
+
 ![Screenshot_20200409-194141](https://user-images.githubusercontent.com/42911937/78924580-61a55980-7a9a-11ea-95f2-2a21ad0b356b.jpg)
 
 
